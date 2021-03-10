@@ -85,7 +85,7 @@ Fig: RMSE for the three valid tracks
 
 ## Most Difficult Part
 
-The implementation of ekf, track management, data association, and camera-lidar fusion are all wellguided in the lectures, so I believe that completing this project is straightforward.
+The implementation of ekf, track management, data association, and camera-lidar fusion are all well guided in the lectures, so I believe that completing this project is straightforward.
 In my opinion, it was difficult to implement the camera measuring model. When projecting a 3d point into a 2d point, there are transformations in the camera axis. However, the coding of the project was discovered and the problem was solved.
 
 For the project, a pre-computed result is needed. However, the pre-computed result files do not correspond to the load filename of the loop_over_dataset.py file. For using the files, I modified the filenames according to the pre-computed result.
