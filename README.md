@@ -76,7 +76,7 @@ The partial device status derivative(x,y,z) for measuring model (u,v) measuring 
 
 To reject the wrong measurement-track pair, check whether the tracking status is in the camera field of view.
 
-A video of “my_tracking_results.avi” for the tracking of vehicles using lidar and camera measurements is recorded inside the project directory.
+A video of “my_tracking_results.avi” for the tracking of vehicles using lidar and camera measurements is recorded inside the project directory. Uploaded the file in the video folder.
 
 Tracking result with three tracks
 
